@@ -20,5 +20,4 @@ public class TransactionService {
 		account.setAmount(account.getAmount() + amount);
 		return account;
 	}
-
 }
